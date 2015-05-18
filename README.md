@@ -1,3 +1,5 @@
+# vagrant-aspnextvnext
+
 Vagrantfile and bootstrap script for setting up ASP.Net vNext
 
 Just clone the repo then run 'vagrant up'
